@@ -99,16 +99,17 @@ a {
 }
 img {
   display: block;
-  max-width: 80%;
-  margin: 0 0 80px 0;
 }
 
 .layer {
   display: flex;
   align-items: center;
 }
+img,
 video,
 iframe {
-  width: 80%;
-  margin: 0 0 80px 0;
+  display: block;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto 80px auto;
 }

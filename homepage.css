@@ -95,7 +95,7 @@ h3:first-of-type {
 a {
   text-decoration: none;
   color: inherit;
-  border-bottom: 1px solid white;
+  border-bottom: 1px dotted white;
 }
 img {
   display: block;

@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Apoc-Revelations';
-  src: url('../fonts/Apoc-Revelations.woff2') format('woff2'),
-      url('../fonts/Apoc-Revelations.woff') format('woff');
+  src: url('fonts/Apoc-Revelations.woff2') format('woff2'),
+      url('fonts/Apoc-Revelations.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'Apoc-Revelations-Italic';
-  src: url('../fonts/Apoc-RevelationsItalic.woff2') format('woff2'),
-      url('../fonts/Apoc-RevelationsItalic.woff') format('woff');
+  src: url('fonts/Apoc-RevelationsItalic.woff2') format('woff2'),
+      url('fonts/Apoc-RevelationsItalic.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
